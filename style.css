@@ -1,0 +1,11 @@
+/* Seletores CSS
+    - Id : #nome-do-id
+    - Classe : .nome-da-classe
+    - Tag : nome-da-tag
+*/
+
+body {
+    background-color: red;
+    color: blue;
+    padding: 400px;
+}
